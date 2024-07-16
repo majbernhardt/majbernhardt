@@ -40,5 +40,5 @@
 ## Инструменты, с которыми я когда-либо работал/знаю/изучал/сталкивался/имею_опыт
 `Nuxt` `Vue` `WordPress` `JavaScript` `TypeScript` `Strapi` `Ubuntu` `nginx` `Docker` `pm2` `Git` `GitLab` `Clouflare` `Vercel` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `MODX` `Webpack` `Vite` `Laravel` `Python (Парсеры, боты для telegram)` `PostgreSQL` `MySQL` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Интеграции Сall Tracking, Email Tracking, Flash Call` `И ещё много чего, что не вспомнил...`
 
-## Инструменты, которые я изучаю/планирую_изучить_и_применять/
+## Инструменты, которые я изучаю/планирую_изучить_и_применять
 `NestJS` `CI/CD` `Jest и другие инструменты для тестирования`
