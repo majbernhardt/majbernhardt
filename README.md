@@ -38,7 +38,7 @@
 - 📫 Email: majbernhardt@gmail.com
 
 ## Инструменты, с которыми я когда-либо работал/знаю/изучал/сталкивался/имею_опыт
-`Nuxt` `Vue` `WordPress` `JavaScript` `TypeScript` `Strapi` `Ubuntu` `nginx` `Docker` `pm2` `Git` `GitLab` `Clouflare` `Vercel` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `MODX` `Webpack` `Vite` `Laravel` `Python (Парсеры, боты для telegram)` `PostgreSQL` `MySQL` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Интеграции Сall Tracking, Email Tracking, Flash Call` `И ещё много чего, что не вспомнил...`
+`Nuxt` `Vue` `WordPress` `JavaScript` `TypeScript` `Pinia` `Strapi` `Ubuntu` `nginx` `Apache` `Docker` `Docker Compose` `pm2` `Git` `GitLab` `Clouflare` `Vercel` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `Tailwind` `Bootstrap` `MODX` `Webpack` `Vite` `Laravel` `Python (Парсеры, боты для telegram)` `PostgreSQL` `MySQL` `REST` `JSON` `Apollo` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Интеграции Сall Tracking, Email Tracking, Flash Call` `И ещё много чего, что не вспомнил...`
 
 ## Инструменты, которые я изучаю/планирую_изучить_и_применять
 `NestJS` `CI/CD` `Jest и другие инструменты для тестирования`
