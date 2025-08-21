@@ -38,7 +38,34 @@
 - 📫 Email: majbernhardt@gmail.com
 
 ## Инструменты, с которыми я когда-либо работал/знаю/изучал/сталкивался/имею_опыт
-`Nuxt` `Vue` `JavaScript` `TypeScript` `Pinia` `TailwindCSS` `NuxtUI` `Strapi` `NestJS` `Express.js` `GitLab` `GitLab CI/CD` `Ubuntu` `Nginx` `Apache` `Docker` `Docker Compose` `pm2` `Git` `Clouflare` `Vercel` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `Bootstrap` `WordPress` `MODX` `Webpack` `Vite` `Laravel` `Python (Парсеры, боты для telegram)` `PostgreSQL` `MySQL` `REST API` `JSON` `Apollo` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Сall Tracking` `Email Tracking` `Flash Call` `И ещё много чего, что не вспомнил...`
+`Nuxt` `Vue` `JavaScript` `TypeScript` `Pinia` `TailwindCSS` `NuxtUI` `Strapi` `NestJS` `ExpressJS` `GitLab` `GitLab CI/CD` `Ubuntu` `Nginx` `Apache` `Docker` `Docker Compose` `pm2` `Git` `n8n` `Uptime Kuma` `Clouflare` `Yandex Cloud` `Yandex Object Storage` `Yandex CDN` `Vercel` `Supabase` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `Figma` `Bootstrap` `WordPress` `MODX` `Webpack` `Vite` `Laravel` `Python` `PostgreSQL` `MySQL` `REST API` `JSON` `Apollo` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Сall Tracking` `Email Tracking` `Flash Call`
 
 ## Инструменты, которые я изучаю/планирую_изучить_и_применять
 `K8s` `n8n` `Jest и другие инструменты для тестирования`
+
+## 🤖AI в моей работе: от код-ревью до локальных моделей
+
+<!-- <div>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="ChatGPT" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" alt="DeepSeek" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" alt="Cursor" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/v0.svg" alt="V0" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable.svg" alt="Lovable" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n.svg" alt="n8n" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cline.svg" alt="Cline" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" alt="Ollama" width="30" height="30"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lmstudio.svg" alt="LM Studio" width="30" height="30"/>
+</div> -->
+
+### Активно и уверенно юзаю нейросети для разработки и ресёрча
+
+- `ChatGPT`, `DeepSeek` и другие *ИИ* — мои постоянные напарники в сложных и неоднозначных вопросах
+- Провожу через них **код-ревью**, нахожу проблемные места, улучшаю читаемость и оптимизирую решения
+- Анализирую и улучшаю **архитектуру проектов**, проверяю гипотезы, делаю глубокий ресёрч новых технологий
+- Пишу и дорабатываю **промпты для других нейросетей**, чтобы получать лучшие результаты
+- Практикую *вайбкодинг* через `Cursor` и похожие инструменты, а также `v0` и `Lavable` для **быстрого прототипирования MVP**
+- Использую *AI* как **умный автокомплитер**, ускоряющий процесс разработки
+- Разворачиваю локальные *LLM-модели* через `LM Studio` и `Ollama`, подключаю их к инструментам и IDE для оффлайн-работы и интеграций
+- Учусь, провожу самотесты, анализирую сайты, код и паттерны — **ИИ для обучения, экспериментов и роста**
+- Обучаюсь новым инструментам (`React`, `Next.js`, `React Native`) через *вайбкодинг* pet-проектов разной тематики и сложности
+- 🔥 Из последнего — сделал **фуллстек сайт-портфолио** с админкой на `Next.js` + `Postgres` + `Drizzle`, развернул на `Vercel`, используя *AI* на всех этапах: **от архитектуры до кода**
