@@ -38,10 +38,10 @@
 - 📫 Email: majbernhardt@gmail.com
 
 ## Инструменты, с которыми я когда-либо работал/знаю/изучал/сталкивался/имею_опыт
-`Nuxt` `Vue` `JavaScript` `TypeScript` `Pinia` `TailwindCSS` `NuxtUI` `Strapi` `NestJS` `ExpressJS` `GitLab` `GitLab CI/CD` `Ubuntu` `Nginx` `Apache` `Docker` `Docker Compose` `pm2` `Git` `n8n` `Uptime Kuma` `Clouflare` `Yandex Cloud` `Yandex Object Storage` `Yandex CDN` `Vercel` `Supabase` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `Figma` `Bootstrap` `WordPress` `MODX` `Webpack` `Vite` `Laravel` `Python` `PostgreSQL` `MySQL` `REST API` `JSON` `Apollo` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Сall Tracking` `Email Tracking` `Flash Call`
+`Nuxt` `Vue` `JavaScript` `TypeScript` `Pinia` `TailwindCSS` `NuxtUI` `Strapi` `NestJS` `ExpressJS` `Prisma` `Drizzle` `GitLab` `GitLab CI/CD` `n8n` `Ubuntu` `Nginx` `Traefik` `Apache` `ngrok` `Docker` `Docker Compose` `pm2` `Git` `Uptime Kuma` `Keycloak` `Clouflare` `Yandex Cloud` `Yandex Object Storage` `Yandex CDN` `Vercel` `Supabase` `LM Studio` `Ollama` `Node.js` `npm` `yarn` `gulp` `HTML` `CSS/SCSS/LESS` `Figma` `Bootstrap` `WordPress` `MODX` `Webpack` `Vite` `Laravel` `Python` `Telegram Bot API` `PostgreSQL` `MySQL` `REST API` `JSON` `Apollo` `GraphQL` `Gsap` `Яндекс Метрика` `Google Analytics` `Roistat` `Mixpanel` `Сall Tracking` `Email Tracking` `Flash Call`
 
 ## Инструменты, которые я изучаю/планирую_изучить_и_применять
-`K8s` `n8n` `Jest и другие инструменты для тестирования`
+`K8s` `Jest и другие инструменты для тестирования`
 
 ## 🤖AI в моей работе: от код-ревью до локальных моделей
 
