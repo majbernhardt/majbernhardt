@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeSctipt" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="30" height="30"/>
 </div>
 *Здесь могла бы быть статистика по используемым языкам, но 99% моих репозиториев приватные)
@@ -69,3 +69,5 @@
 - Учусь, провожу самотесты, анализирую сайты, код и паттерны — **ИИ для обучения, экспериментов и роста**
 - Обучаюсь новым инструментам (`React`, `Next.js`, `React Native`) через *вайбкодинг* pet-проектов разной тематики и сложности
 - 🔥 Из последнего — сделал **фуллстек сайт-портфолио** с админкой на `Next.js` + `Postgres` + `Drizzle`, развернул на `Vercel`, используя *AI* на всех этапах: **от архитектуры до кода**
+
+> "AI-native teams will move 10x faster than those not willing to change" — [leerob.com](https://leerob.com/)
